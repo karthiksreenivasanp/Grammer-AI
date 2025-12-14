@@ -27,7 +27,7 @@
 
 Due to GitHub’s file size limits (the AI model is ~2.3 GB), the standalone application is hosted externally.
 
-👉 **[Download Grammer AI v1.0 (Google Drive Link)](https://drive.google.com/file/d/1eq-r7LLsQcITFZVyXE48ijvCSX5JU0In/view?usp=drive_link)**
+👉 **[Download Grammer AI v1.0](https://drive.google.com/file/d/1eq-r7LLsQcITFZVyXE48ijvCSX5JU0In/view?usp=drive_link)**
 
 ### Installation
 1. Download the ZIP file  
