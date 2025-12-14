@@ -1,8 +1,8 @@
-# 📝 Grammer AI (Anti-Detection Edition)
+# 📝 Grammer AI 
 
 **Grammer AI** is a powerful, 100% offline NLP tool designed to "humanize" AI-generated text. Built on the **Qwen-2.5-3B** Large Language Model (LLM), it rewrites content with high perplexity and burstiness to effectively bypass AI detection filters like GPTZero and Turnitin.
 
-![CLI Screenshot](https://via.placeholder.com/800x400?text=Grammer+AI+CLI+Screenshot)
+<img width="100%" alt="Grammer AI Interface" src="https://github.com/user-attachments/assets/634e20f2-11ba-4ba3-936b-cc96ada27ebc">
 
 ## 🚀 Features
 
@@ -17,7 +17,7 @@
 
 Due to GitHub's file size limits (the AI model is 2.3 GB), the standalone application is hosted externally.
 
-👉 **[Download Grammer AI v1.0 (Google Drive / Mega Link)]([PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE])**
+👉 **[Download Grammer AI v1.0 (Google Drive Link)](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
 
 **Installation:**
 1.  Download the ZIP file.
