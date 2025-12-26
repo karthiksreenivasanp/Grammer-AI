@@ -9,7 +9,7 @@
 
 ## 🚀 Features
 
-- **🛡️ Chaos Mode"**  
+- **🛡️ Sentence Convertor"**  
   Uses specialized prompts to inject natural imperfections, varied sentence structures, and human-like flow.
 
 - **⚡ Zero-Lag Performance**  
