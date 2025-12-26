@@ -1,7 +1,7 @@
 
 # 📝 Grammer AI 
 
-**Grammer AI** is a powerful, 100% offline NLP tool designed to *Convert Sentence to Same meaning structure* AI-generated text. Built on the **Qwen-2.5-3B** Large Language Model (LLM), it rewrites content with high perplexity and burstiness.
+**Grammer AI** is a powerful, 100% offline NLP tool designed to *Convert Sentence to Same meaning structure* AI-generated text. Built on the **Qwen-2.5-3B** Large Language Model (LLM).
 
 <img width="100%" alt="Grammer AI Interface" src="https://github.com/user-attachments/assets/634e20f2-11ba-4ba3-936b-cc96ada27ebc">
 
