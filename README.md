@@ -16,7 +16,7 @@
   Optimized for mid-range GPUs (e.g., RTX 2050 / 3050) using the lightweight yet powerful Qwen-2.5-3B model.
 
 - **🔒 100% Privacy**  
-  No data leaves your device. Everything runs locally using `llama-cpp-python`.
+  Everything runs locally using `llama-cpp-python`.
 
 - **🎨 Pro CLI Interface**  
   Hacker-style, color-coded terminal UI with real-time progress tracking.
@@ -108,6 +108,7 @@ This tool is intended for **educational and research purposes only**.
 The developer does **not** endorse academic dishonesty, plagiarism, or violation of institutional policies.
 
 Always review and edit the generated output before submission.
+
 
 
 
