@@ -109,10 +109,5 @@ The developer does **not** endorse academic dishonesty, plagiarism, or violation
 
 Always review and edit the generated output before submission.
 
----
-
-### 👤 Author
-
-**Created by [Karthik Sreenivasan P](https://github.com/karthiksreenivasanp)**
 
 
